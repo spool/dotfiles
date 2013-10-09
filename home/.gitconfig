@@ -1,0 +1,6 @@
+[user]
+	email = griffith.rees@sociology.ox.ac.uk
+[core]
+	editor = vim
+[color]
+	ui = true
