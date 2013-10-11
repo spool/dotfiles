@@ -1,0 +1,3 @@
+Bundle 'ervandew/screen'
+Bundle 'Vim-R-plugin'
+Bundle "sudo.vim"
