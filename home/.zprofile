@@ -1,1 +1,1 @@
-zprofile
+../../prezto/runcoms/zprofile

@@ -1,1 +1,1 @@
-zlogout
+../../prezto/runcoms/zlogout

@@ -16,6 +16,10 @@ if [ -n "$BASH_VERSION" ]; then
     fi
 fi
 
+if [ -d "/usr/local/bin" ] ; then
+    export PATH="/usr/local/bin:$PATH"
+fi
+
 # set PATH so it includes user's private bin if it exists
 if [ -d "$HOME/bin" ] ; then
     PATH="$HOME/bin:$PATH"
@@ -26,4 +30,4 @@ export WORKON_HOME=~/code/envs
 export PROJECT_HOME=~/code/projects
 source /usr/local/bin/virtualenvwrapper.sh
 
-alias homeshick="source $HOME/.homesick/repos/homeshick/bin/homeshick.sh"
+source $HOME/.homesick/repos/homeshick/homeshick.sh

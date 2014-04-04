@@ -1,1 +1,1 @@
-zshenv
+../../prezto/runcoms/zshenv
