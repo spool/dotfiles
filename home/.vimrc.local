@@ -2,3 +2,6 @@ set background=dark
 colorscheme solarized
 "clearing highlighted search
 nmap <silent> <leader>/ :nohlsearch<CR>
+
+" Fix tmux clipboard
+set clipboard+=unnamed
