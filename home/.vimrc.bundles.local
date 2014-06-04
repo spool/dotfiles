@@ -1,7 +1,6 @@
 Bundle 'ervandew/screen'
 Bundle 'Vim-R-plugin'
 Bundle "sudo.vim"
-Bundle 'Shougo/neocomplete.vim.git'
-Bundle 'Shougo/neosnippet'
-Bundle 'Shougo/neosnippet-snippets'
+Bundle 'Valloric/YouCompleteMe'
+Bundle 'SirVer/ultisnips'
 Bundle 'honza/vim-snippets'
