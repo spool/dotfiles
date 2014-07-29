@@ -1,6 +1,4 @@
 Bundle 'ervandew/screen'
 Bundle 'Vim-R-plugin'
-Bundle "sudo.vim"
-Bundle 'Valloric/YouCompleteMe'
-Bundle 'SirVer/ultisnips'
-Bundle 'honza/vim-snippets'
+Bundle 'sudo.vim'
+Bundle 'fountain.vim'
