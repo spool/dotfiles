@@ -51,3 +51,4 @@ endif
 " When enabled, there can be too much visual noise
 " especially when splits are used.
 set completeopt-=preview
+let g:pymode_lint_checkers=['pylint', 'pep8', 'mccabe', 'pep257', 'pyflakes']
